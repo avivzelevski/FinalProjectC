@@ -1,0 +1,9 @@
+Name/Code             door Status                date       time
+Yossi                2    Entry available       24/01/2019  17:58
+3893434              2    Unknown user          24/01/2019  17:58
+234324               1    Unknown user          24/01/2019  17:58
+RRETP2               1    Unknown user          24/01/2019  17:58
+Israel               1    Entry available       24/01/2019  17:58
+678XX2Y              1    Unknown user          24/01/2019  17:58
+Shimon               1    Not Authorised user   24/01/2019  17:58
+XX2479               2    Unknown user          24/01/2019  17:58
